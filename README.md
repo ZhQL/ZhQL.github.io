@@ -1,24 +1,24 @@
-White Paper
-============
+##说明
 
-White Paper is a jekyll theme for tech blogs. It is clean and simple with good semantic
-structure.
+2016-02-29  更新 _config.yml 可用
 
-![white-paper image](https://i.cloudup.com/rmZjQ83vRh-2000x2000.png)
+此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
-## Usage:
+##读立写生
 
-- Install Jekyll from here(http://jekyllrb.com/)
-- Fork the project.
-- Change the fields in _config.yml.
-- Change the links in header.html.
+我是陈素封，博客：[cnfeat.com](cnfeat.com)
 
-Test the website live while editing the code:
+每天千字践行者，践行时间：2014年02月10日至2014年02月23日，感谢这段经历，让我成为了现在的我。
 
-```sh
-jekyll server --watch
-```
+现在研习 **认知写作学** 。
 
-## Issues:
+##坚信
 
-Report issues or feature request [here](https://github.com/vinitkumar/white-paper/issues).
+
+- 元认知乃一切之源
+- 学苟知本，六经皆我注脚 
+- 一切技能皆可习得，包括写作
+- 「持续」并不是坚持，写就是最好的回报
+
+
+
